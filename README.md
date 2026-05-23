@@ -57,5 +57,5 @@ The dataset contains 6,687 customer records with 29 variables covering contract 
 
 ---
 
-*Analysis by Habeeb Odoffin · April 2026*  
+*Analysis by Adewale Odoffin · April 2026*  
 *[LinkedIn](https://www.linkedin.com/in/adewaleodoffin/) · habeebodoffin@gmail.com*
