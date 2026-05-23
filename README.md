@@ -1,6 +1,6 @@
 # Databel Telecom — Customer Churn Analysis
 
-![Databel Churn Dashboard](dashboard-screenshot.png)
+![Databel Churn Dashboard](Dashboard%20Screenshot.png)
 
 **Tool:** Tableau Public  
 **Dataset:** 6,687 customers · 29 variables  
