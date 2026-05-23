@@ -10,7 +10,7 @@ Identified $793K in annual revenue at risk across 6,687 customers.
 Built an executive Tableau dashboard segmenting churn by contract type,
 age group, geography, and exit reason with 3 strategic recommendations.
 
-[View Dashboard](https://public.tableau.com/app/profile/habeeb.odoffin/viz/ChurnAnalysis_17747175850900)
+[View Dashboard](https://public.tableau.com/app/profile/habeeb.odoffin/viz/ChurnAnalysis_17747175850900/Dashboard1)
 
 ## Skills
 Tableau · Power BI · SQL · Excel · Python (learning)
